@@ -1,3 +1,3 @@
 function teste() {
-  console.log('a')
+  console.log('b')
 }
